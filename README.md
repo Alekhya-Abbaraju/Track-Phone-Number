@@ -10,6 +10,4 @@ pip install phonenumbers
 pip install opencage
 pip install folium
 ```
-```
-![Screenshot 2023-10-11 215200](https://github.com/Alekhya-Abbaraju/Track-Phone-Number/assets/129656745/afef2ca8-f59b-40ad-a388-a8dcabfa288e)
-```
+![Screenshot 2023-10-11 215200](https://github.com/Alekhya-Abbaraju/Track-Phone-Number/assets/129656745/60439dab-924a-470d-9a6f-beb0a3dff847)
